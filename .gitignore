@@ -11,3 +11,5 @@ MANIFEST.bak
 xs/MANIFEST.bak
 xs/assertlib*
 .init_bundle.ini
+gpx.exe
+call_gpx.bat
