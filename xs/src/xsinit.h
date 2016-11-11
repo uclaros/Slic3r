@@ -40,6 +40,33 @@ extern "C" {
 #include "ppport.h"
 #undef do_open
 #undef do_close
+#undef times
+#undef setbuf
+#undef isnan
+#undef read
+#undef seekdir
+#undef bind
+#undef send
+#undef connect
+#undef wait
+#undef accept
+#undef close
+#undef open
+#undef write
+#undef socket
+#undef listen
+#undef shutdown
+#undef ioctl
+#undef getpeername
+#undef rect
+#undef setsockopt
+#undef getsockopt
+#undef getsockname
+#undef gethostname
+#undef select
+#undef socketpair
+#undef recvfrom
+#undef sendto
 }
 #endif
 
